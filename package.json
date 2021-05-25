@@ -1,6 +1,6 @@
 {
   "homepage": "https://sshreya07.github.io/github-user-finder",
-  "name": "github-finder-react",
+  "name": "github-user-finder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
